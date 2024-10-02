@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 **Salesforce Developer | 5x Certified Professional**<br><br>Welcome! I'm Annanya Ranjan, a passionate Salesforce Developer with a solid track record and a knack for turning complex challenges into streamlined solutions. With 2+ years of hands-on experience and triple-certified in Salesforce, I thrive crafting robust applications and seamless integrations.<br><br>**Certifications:**<br>1. Salesforce Certified Professional<br>2. Salesforce Platform Developer 1<br>3. Salesforce Administrator<br>4. Salesforce JavaScript Developer 1<br><br>**Key Expertise:**<br>- Salesforce Development (Apex, Aura, LWC)<br>- Salesforce Administration<br>- Salesforce Integrations REST APIs<br><br>**What Drives Me:**<br>I'm fueled by a commitment to excellence, continuous learning, and delivering innovative solutions that empower businesses. My goal is to meet expectations and exceed them, ensuring optimal performance and user satisfaction.<br><br>Highly motivated and results-oriented professional seeking a Salesforce Developer position to leverage 2 <br>years of experience in building customer-centric solutions. Proven track record of delivering successful <br>projects using Salesforce (Aura, Apex, Lightning Web Components, Visualforce) within Agile methodologies. <br>Extensive knowledge of the Salesforce ecosystem, demonstrated by 4 certifications (Administrator, <br>Associate, Platform Developer 1, JavaScript Developer 1), and a Copado Robotic Testing certification. Eager <br>to apply Industry Cloud expertise to tackle complex business challenges in the financial services industry. <br>Passionate about knowledge sharing and fostering collaboration within teams.<br><br>Let's connect! Whether you're looking to collaborate, share insights, or explore opportunities, feel free to reach out. I'm excited about the possibilities that lie ahead in the Salesforce ecosystem.
 
-<!--
-**annanya17699/annanya17699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/annanya-ranjan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@annanya17699) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=annanya17699&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=annanya17699&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=annanya17699&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=annanya17699&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=annanya17699&icon=4&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
